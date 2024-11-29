@@ -1,5 +1,4 @@
-# [awattar-backtesting.github.io](https://awattar-backtesting.github.io)
-A tool to visualize your electricity usage with aWATTar
+https://www.evn.at/home/strom/optimasmartaktivnatur
 
 # Run Locally
 Just start [index.html](docs\index.html), but make sure to allow CORS from local machine.
